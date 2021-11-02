@@ -21,8 +21,4 @@ pargenes-hpc-debug.py -a /blue/soltis/sachamacias/hybpiper/paper1/hybpiper/MMinf
 		-c 8 -d nt -m \
                 --modeltest-global-parameters /blue/soltis/sachamacias/hybpiper/paper1/hybpiper/MMinfo/genetreesNG/01/pargenes/globaloptions_pargenes_p.txt \
 		-b 500 -p 20 -s 10 --modeltest-criteria BIC --use-astral --astral-global-parameters Astral_globaloptions_pargenes.txt --continue
-
-
-
-
 date
